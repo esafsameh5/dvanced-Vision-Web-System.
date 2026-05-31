@@ -2,6 +2,37 @@
 
 A powerful Flask + MediaPipe web application for real-time computer vision tasks with advanced face recognition, hand gesture detection, and interactive hand-controlled features.
 
+## 📸 Gallery & Interface Showcase
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="assets/26c9d1b0-60bf-498e-bd97-44de5d8fa549.jpg" alt="Real-time Face Detection & Recognition" width="100%" style="border-radius: 8px;" />
+        <br />
+        <sub><b>Real-time Face Detection & Recognition</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="assets/c66eaf9e-a8ea-4d73-acbb-2bccded372d0.jpg" alt="Hand Gesture Tracking" width="100%" style="border-radius: 8px;" />
+        <br />
+        <sub><b>Advanced Hand Gesture & Finger State Analysis</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="assets/c6f77afe-c5ca-4596-b002-eac54b79cfb1.jpg" alt="Hand-controlled Drawing Overlay" width="100%" style="border-radius: 8px;" />
+        <br />
+        <sub><b>Interactive Hand-Controlled Canvas & Drawing Mode</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="assets/e67d2a61-0c74-4202-b56b-1f3452f93df2.jpg" alt="Word & Text Manipulation" width="100%" style="border-radius: 8px;" />
+        <br />
+        <sub><b>Dynamic Word Drag-and-Drop Overlay</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## ✨ Core Features
 
 ### 👤 Face Recognition & Management
