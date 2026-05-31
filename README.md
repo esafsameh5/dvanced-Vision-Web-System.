@@ -278,10 +278,7 @@ mediapipe_flask_vision_studio/
 │       └── app_v2.js              # Alternative/updated logic
 │
 └── data/
-    ├── known_faces/               # Registered person face samples
-    │   ├── esaf/
-    │   ├── lorn/
-    │   └── mostafa/
+    ├── known_faces/               # Registered person face samples (empty by default)
     ├── unknown_faces/             # Automatically saved unknown faces
     ├── face_embeddings.json        # DeepFace embeddings (auto-generated)
     └── custom_gestures.json        # Custom gesture definitions (auto-generated)
