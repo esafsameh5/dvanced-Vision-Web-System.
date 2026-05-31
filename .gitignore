@@ -28,6 +28,7 @@ Thumbs.db
 
 # Data files (optional - remove if you want to track these)
 data/unknown_faces/
+data/known_faces/
 data/face_embeddings.json
 data/custom_gestures.json
 
